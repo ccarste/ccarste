@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ccarste
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... lots
-- 💞️ I’m looking to collaborate on ... things
-- 📫 How to reach me ...
+- 👀 I’m interested in ... making things work
+- 🌱 I’m currently learning ... lots & lots & lots
+- 💞️ I’m looking to collaborate on ... things, many things.
+- 📫 How to reach me ... crcarstensen@symx.com (cc: ccarste@rockwellautomation.com)
 
 <!---
 ccarste/ccarste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
